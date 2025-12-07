@@ -19,7 +19,7 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 - Visual Studio 2022/2023
 
 ### Captura de ecrã
-![Demo do programa](./demo.jpg "Gestão de Notas")
+![Demo do programa](./demo2.jpg "Gestão de Notas")
 
 ### Como executar
 1. Abrir a solução `.sln` no Visual Studio
