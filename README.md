@@ -23,19 +23,19 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 
 ### Estrutura do projeto
 
-    GestaoNotasC#
-    ├── AvaliacaoEscolar.sln        ← abre diretamente no Visual Studio
-    ├── AvaliacaoEscolar.csproj
-    ├── Form1.cs                    ← código principal
-    ├── Form1.Designer.cs
-    ├── Form1.resx
-    ├── Ficha.cs
-    ├── NossaGrid.cs
-    ├── Equipa.cs
-    ├── Program.cs
-    ├── App.config
-    ├── demo2.jpg                   ← programa a correr
-    └── README.md                   ← tudo explicado
+ GestaoNotasC#
+ ├── AvaliacaoEscolar.sln        ← abre diretamente no Visual Studio
+ ├── AvaliacaoEscolar.csproj
+ ├── Form1.cs                    ← código principal
+ ├── Form1.Designer.cs
+ ├── Form1.resx
+ ├── Ficha.cs
+ ├── NossaGrid.cs
+ ├── Equipa.cs
+ ├── Program.cs
+ ├── App.config
+ ├── demo2.jpg                   ← programa a correr
+ └── README.md                   ← tudo explicado
 
 ### Como executar
 1. Clica no botão verde **"Code"** → **"Download ZIP"**
